@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.11)  24 DEC 2021 20:59
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.11)  31 DEC 2021 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -739,21 +739,35 @@ Underfull \vbox (badness 5578) has occurred while \output is active []
  [40]
 Underfull \vbox (badness 5417) has occurred while \output is active []
 
- [41] [42] [43] [44] (./资本论.aux)
+ [41] [42] [43] [44]
+第二章
+[45
+
+] [46] [47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48] [49] [50] [51] [52]
+第三章
+[53
+
+] [54] [55] [56] [57]
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+ [58] [59] [60] (./资本论.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47188pt have occurred.
 
 Package rerunfilecheck Info: File `资本论.out' has not changed.
-(rerunfilecheck)             Checksum: 2464EAF8C88C51BC374B035683FF58D0;4352.
+(rerunfilecheck)             Checksum: A2187C613498ED1296D6AD1875F4FAA7;4627.
  ) 
 Here is how much of TeX's memory you used:
- 18064 strings out of 476919
- 462343 string characters out of 5825423
- 739153 words of memory out of 5000000
- 37750 multiletter control sequences out of 15000+600000
+ 18300 strings out of 476919
+ 481050 string characters out of 5825423
+ 742687 words of memory out of 5000000
+ 37986 multiletter control sequences out of 15000+600000
  409247 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,14n,104p,2771b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 资本论.pdf (83 pages).
+Output written on 资本论.pdf (99 pages).

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.11)  6 JAN 2022 22:53
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.11)  9 JAN 2022 16:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -815,10 +815,10 @@ Package rerunfilecheck Info: File `资本论.out' has not changed.
 (rerunfilecheck)             Checksum: FC7F8C4919E7C1FA77CE760C69117E85;5405.
  ) 
 Here is how much of TeX's memory you used:
- 18446 strings out of 476919
- 488904 string characters out of 5825423
- 751448 words of memory out of 5000000
- 38122 multiletter control sequences out of 15000+600000
+ 18435 strings out of 476919
+ 488044 string characters out of 5825423
+ 751297 words of memory out of 5000000
+ 38111 multiletter control sequences out of 15000+600000
  409263 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,14n,104p,2771b,438s stack positions out of 5000i,500n,10000p,200000b,80000s

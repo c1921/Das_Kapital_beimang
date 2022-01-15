@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.11)  9 JAN 2022 16:18
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.11)  15 JAN 2022 13:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -654,13 +654,14 @@ LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
 [1
 
 
-])
+]
+LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 42.
+ [2])
 \tf@toc=\write5
 \openout5 = `资本论.toc'.
 
-LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 143.
- [2] [3
+ [3] [4
 
 ]
 
@@ -679,7 +680,10 @@ Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 (fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-[4
+[5
+
+] [6
+
 
 ]
 
@@ -687,8 +691,6 @@ LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <7.52812> not available
 (Font)              size <8> substituted on input line 187.
 
 [1
-
-
 
 ] [2]
 Underfull \vbox (badness 1655) has occurred while \output is active []
@@ -806,21 +808,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--34
 
  []
 
-) [94] (./资本论.aux)
+) [94] [95
+
+] [96]
+第四章
+[97
+
+] [98] [99]
+Missing character: There is no △ (U+25B3) in font [lmroman10-regular]:mapping=tex-text;!
+ [100]
+Missing character: There is no △ (U+25B3) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
+Overfull \vbox (0.21219pt too high) has occurred while \output is active []
+
+ [102]
+Underfull \vbox (badness 1331) has occurred while \output is active []
+
+ [103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+Underfull \vbox (badness 2478) has occurred while \output is active []
+
+ [105] [106] [107] [108] [109] [110] [111] [112]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113] [114] [115] [116] [117]
+Underfull \vbox (badness 1331) has occurred while \output is active []
+
+ [118]
+Overfull \vbox (0.21217pt too high) has occurred while \output is active []
+
+ [119] [120] [121] [122
+
+] [123] [124]
+第五章
+
+Underfull \vbox (badness 2547) has occurred while \output is active []
+
+ [125
+
+] [126]
+Underfull \vbox (badness 1412) has occurred while \output is active []
+
+ [127] [128] [129] [130] [131] [132] (./资本论.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47188pt have occurred.
 
 Package rerunfilecheck Info: File `资本论.out' has not changed.
-(rerunfilecheck)             Checksum: FC7F8C4919E7C1FA77CE760C69117E85;5405.
+(rerunfilecheck)             Checksum: 364E361F13B6B5EFD16DF6547830E255;6329.
  ) 
 Here is how much of TeX's memory you used:
- 18435 strings out of 476919
- 488044 string characters out of 5825423
- 751297 words of memory out of 5000000
- 38111 multiletter control sequences out of 15000+600000
+ 18529 strings out of 476919
+ 495278 string characters out of 5825423
+ 751311 words of memory out of 5000000
+ 38205 multiletter control sequences out of 15000+600000
  409263 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,14n,104p,2771b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 资本论.pdf (133 pages).
+Output written on 资本论.pdf (173 pages).

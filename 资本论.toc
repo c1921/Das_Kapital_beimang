@@ -38,3 +38,11 @@
 \contentsline {subsection}{\numberline {A.}货币贮藏}{82}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {B.}支付手段}{86}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {C.}世界货币}{91}{subsection.3.3.3}%
+\contentsline {part}{第二篇\hspace {1em}货币转化为资本}{95}{part.2}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}货币转化为资本}{97}{chapter.4}%
+\contentsline {section}{\numberline {1.}资本的总公式}{97}{section.4.1}%
+\contentsline {section}{\numberline {2.}总公式的矛盾}{105}{section.4.2}%
+\contentsline {section}{\numberline {3.}劳动力的买和卖}{114}{section.4.3}%
+\contentsline {part}{第三篇\hspace {1em}绝对剩余价值的生产}{123}{part.3}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}劳动过程和价值增殖过程}{125}{chapter.5}%
+\contentsline {section}{\numberline {1.}劳动过程}{125}{section.5.1}%

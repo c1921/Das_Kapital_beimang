@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.11)  15 JAN 2022 13:03
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.11)  17 JAN 2022 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -854,21 +854,62 @@ Underfull \vbox (badness 2547) has occurred while \output is active []
 ] [126]
 Underfull \vbox (badness 1412) has occurred while \output is active []
 
- [127] [128] [129] [130] [131] [132] (./资本论.aux)
+ [127] [128] [129] [130] [131] [132] [133] [134]
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+ [135] [136] [137] [138]
+Underfull \vbox (badness 5578) has occurred while \output is active []
+
+ [139] [140] [141] [142]
+第六章
+[143
+
+] [144]
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+ [145]
+Underfull \vbox (badness 5578) has occurred while \output is active []
+
+ [146] [147] [148] [149] [150]
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+ [151] [152]
+第七章
+[153
+
+]
+Missing character: There is no △ (U+25B3) in font [lmroman10-regular]:mapping=tex-text;!
+ [154]
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+ [155]
+Underfull \vbox (badness 3098) has occurred while \output is active []
+
+ [156] [157] [158]
+Overfull \hbox (22.93591pt too wide) in paragraph at lines 1531--1543
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1531--1543
+
+ []
+
+[159] [160] (./资本论.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47188pt have occurred.
 
 Package rerunfilecheck Info: File `资本论.out' has not changed.
-(rerunfilecheck)             Checksum: 364E361F13B6B5EFD16DF6547830E255;6329.
+(rerunfilecheck)             Checksum: 317963F69AA0959D99195F85785F6C98;6763.
  ) 
 Here is how much of TeX's memory you used:
- 18529 strings out of 476919
- 495278 string characters out of 5825423
- 751311 words of memory out of 5000000
- 38205 multiletter control sequences out of 15000+600000
+ 18593 strings out of 476919
+ 500319 string characters out of 5825423
+ 751314 words of memory out of 5000000
+ 38269 multiletter control sequences out of 15000+600000
  409263 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,14n,104p,2771b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 资本论.pdf (173 pages).
+Output written on 资本论.pdf (201 pages).

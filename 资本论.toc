@@ -46,3 +46,7 @@
 \contentsline {part}{第三篇\hspace {1em}绝对剩余价值的生产}{123}{part.3}%
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}劳动过程和价值增殖过程}{125}{chapter.5}%
 \contentsline {section}{\numberline {1.}劳动过程}{125}{section.5.1}%
+\contentsline {section}{\numberline {2.}价值增殖过程}{132}{section.5.2}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}不变资本和可变资本}{143}{chapter.6}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}剩余价值率}{153}{chapter.7}%
+\contentsline {section}{\numberline {1.}劳动力的剥削程度}{153}{section.7.1}%

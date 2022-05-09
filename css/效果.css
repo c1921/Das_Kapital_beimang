@@ -11,18 +11,26 @@ body {
     font-size: 20px;
 }
 
+.main {
+    font-family: "宋体";
+}
+
+.footnote {
+    font-family: "仿宋";
+}
+
 .footnote-line {
    padding: 15px; 
 }
 
 @media screen and (max-width: 1600px) {
-    .main {
+    .main,.footnote {
         padding: 40px 30%;
     }
 }
 
 @media screen and (max-width: 800px) {
-    .main {
+    .main,.footnote {
         padding: 40px 10%;
     }
 }
@@ -37,13 +45,14 @@ a {
 }
 
 .part {
-    font-size: 100px;
+    font-size: 50px;
+    font-weight: bold;
     text-indent: unset;
-    padding: 40px;
+    padding: 40px 0px;
     text-align: center;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    padding: 40px;
+    padding: 40px 0px;
     text-align: center;
 }

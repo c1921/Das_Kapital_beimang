@@ -1,17 +1,18 @@
-body{
+body {
     margin: 0;
     height: 100vh;
     background-color: #252525;
-    
 }
-* {
-    border: #ff0000;
-}
-.main{
+
+.main,.footnote {
     padding: 40px 500px;
     text-align: left;
     color: #cccccc;
     font-size: 20px;
+}
+
+.footnote-line {
+   padding: 15px; 
 }
 
 @media screen and (max-width: 1600px) {
@@ -24,4 +25,25 @@ body{
     .main {
         padding: 40px 10%;
     }
+}
+
+p {
+    text-indent: 2em;
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+
+.part {
+    font-size: 100px;
+    text-indent: unset;
+    padding: 40px;
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    padding: 40px;
+    text-align: center;
 }
